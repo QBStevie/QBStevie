@@ -1,5 +1,6 @@
 
-# Hi there, I'm QBStevie! 👋
+# Hi there, I'm Stevie! 👋
+QBCore Admin
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building innovative solutions, especially within the **FiveM** and **QBCore** ecosystems. 
 
