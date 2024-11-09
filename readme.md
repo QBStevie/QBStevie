@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about developing innovative solut
 
 ## 🎶 What I’m Listening To
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1E378OUMBBrJo0?si=210699dd232e447c" target="_blank">
     <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
   </a>
 </p>
