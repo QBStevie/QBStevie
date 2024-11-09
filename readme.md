@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m passionate about creating innovative solutio
         <img src="https://img.shields.io/badge/🟦-Drill--UK_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Drill-UK Discord"/>  
       </a>  
       <a href="https://github.com/QBStevie">
-        <img src="https://img.shields.io/badge/🟦-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        <img src="https://img.shields.io/badge/🟦-github-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
       </a>
       <a href="mailto:irishstevie91@gmail.com">
         <img src="https://img.shields.io/badge/✉️-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
