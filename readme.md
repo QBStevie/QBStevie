@@ -16,6 +16,24 @@ Welcome to my GitHub profile! I’m passionate about developing innovative solut
 
 ---
 
+## 💬 Join My Discord Communities
+<p align="center">
+  <a href="https://discord.gg/qbcore" target="_blank">
+    <img src="https://img.shields.io/badge/QBCore-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="QBCore Discord"/>
+  </a>
+  <a href="https://discord.gg/CcJeR3V5TQ" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"/>
+  </a>
+  <a href="https://discord.gg/drilluk" target="_blank">
+    <img src="https://img.shields.io/badge/Drill--UK-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Drill-UK Discord"/>
+  </a>
+</p>
+
+<p align="center">Connect with me and others in the QBCore, Drill-UK, and my personal Discord communities!</p>
+
+---
+
+
 
 ## 🔧 Tech Stack & Skills
 <p align="center">
