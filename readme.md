@@ -3,6 +3,8 @@
 
 Welcome to my GitHub profile! I’m passionate about creating innovative solutions in the **FiveM** and **QBCore** ecosystems. Have a look around, and let’s build something amazing together! 😄
 
+![Profile Views](https://komarev.com/ghpvc/?username=QBStevie&style=for-the-badge&color=brightgreen)
+
 ---
 
 ## 🎧 Now Playing on Spotify  
