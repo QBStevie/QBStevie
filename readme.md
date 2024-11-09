@@ -5,19 +5,17 @@ Welcome to my GitHub profile! I’m passionate about developing innovative solut
 
 ---
 
-
 ## 🎶 What I’m Listening To
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
   </a>
 </p>
 
-<p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator" width="100%" height="80" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</p>
+<p align="center">Curious about my current jams? Check out my favorite playlist on Spotify!</p>
 
 ---
+
 
 ## 🔧 Tech Stack & Skills
 <p align="center">
