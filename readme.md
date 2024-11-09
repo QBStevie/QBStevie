@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
-![QBCore](https://img.shields.io/badge/-QBCore-181717?style=for-the-badge&logo=fivem&logoColor=orange)
+[![QBCore](https://img.shields.io/badge/-QBCore-181717?style=for-the-badge&logo=fivem&logoColor=orange)](https://github.com/qbcore-framework)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
