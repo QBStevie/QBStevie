@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 ---
 
 ## 📫 Connect with Me
-[![Tiktok](https://img.shields.io/badge/-.irishStevie-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](QBStevie)
+[![Tiktok](https://img.shields.io/badge/-.irishStevie-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/QBStevie)
 [![Email](https://img.shields.io/badge/-stevie-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irishstevie91@gmail.com)
 
 ---
