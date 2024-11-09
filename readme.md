@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 ![QBStevie's GitHub stats](https://github-readme-stats.vercel.app/api?username=QBStevie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QBStevie&layout=compact&theme=radical)
 
-## 📈 My Old Github Stats 
+## 📈 My Old GitHub Stats
 [![My Old GitHub stats](https://github-readme-stats.vercel.app/api?username=irishstevie&theme=radical)](https://github.com/irishstevie)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irishstevie&layout=compact&theme=radical)](https://github.com/irishstevie)
 
