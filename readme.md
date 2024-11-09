@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I’m passionate about developing innovative solut
 ## 🛠 What I’m Currently Working On
 - **New QBCore Plugins**: Expanding functionality with new features for community servers.
 - **Consumables Script**: Enhancing player interaction with new items and effects.
-- **Age of Empires Mod**: Developing an AI assistant that gives real-time tips and executes actions upon request.
 
 ---
 
