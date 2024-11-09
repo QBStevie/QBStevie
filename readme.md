@@ -1,7 +1,7 @@
 # Hi there, I'm Stevie! 👋
-**QBCore Admin & Developer**
+### QBCore Admin & FiveM Developer
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions, particularly within the **FiveM** and **QBCore** ecosystems.
+Welcome to my GitHub profile! I’m passionate about developing innovative solutions in the **FiveM** and **QBCore** ecosystems. Have a look around, and let’s build something amazing together! 😄
 
 ---
 
@@ -17,23 +17,39 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ---
 
+## 🔥 Achievements & Highlights
+- **Contributions**: Key contributions to the QBCore community, including plugins, custom scripts, and feature updates.
+- **Featured Projects**: Developed innovative systems in the FiveM ecosystem that are widely adopted by the community.
+- **Community Engagement**: Actively support and mentor other developers in the FiveM/QBCore ecosystem.
+
+---
+
+## 🛠 What I’m Currently Working On
+- **New QBCore Plugins**: Expanding functionality with new features for community servers.
+- **Consumables Script**: Enhancing player interaction with new items and effects.
+- **Age of Empires Mod**: Developing an AI assistant that gives real-time tips and executes actions upon request.
+
+---
+
 ## 🌟 Featured Projects
-<!-- Add project links here -->
-- **[Project 1](#)**: Brief description of the project.
-- **[Project 2](#)**: Brief description of the project.
-- **[Project 3](#)**: Brief description of the project.
+- **[Project 1](#)** - A powerful tool to improve server management.
+- **[Project 2](#)** - Custom scripts for in-game enhancements and automation.
+- **[Project 3](#)** - UI improvements for a smoother player experience.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QBStevie&show_icons=true&theme=radical" alt="QBStevie's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QBStevie&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=QBStevie&show_icons=true&theme=radical" alt="QBStevie's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QBStevie&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
+---
+
+## 📊 Legacy GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irishstevie&theme=radical" alt="Old GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishstevie&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=irishstevie&theme=radical" alt="Old GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishstevie&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 ---
@@ -41,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/QBStevie"><img src="https://img.shields.io/badge/-.irishStevie-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TikTok"/></a>
-  <a href="mailto:irishstevie91@gmail.com"><img src="https://img.shields.io/badge/-stevie-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:irishstevie91@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -52,8 +68,8 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
     <img src="https://i.imgur.com/JAHrLVk.png" alt="Drill-UK" width="200">
   </a>
 </p>
-*And a few others—stay tuned for more!*
+<p align="center">*And more coming soon...*</p>
 
 ---
 
-Thanks for stopping by! Let's build something amazing together! 😄
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate.
