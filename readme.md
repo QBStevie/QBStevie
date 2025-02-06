@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I’m passionate about creating innovative solutio
         <li><strong>🍲 Consumables Script</strong>: Enhancing player interactions with items and effects.</li>
         <li><strong>🌐 Featured Projects</strong>:
           <ul>
-            <li><a href="[#](https://github.com/QBStevie/qb-scrapyard)">Project 1</a> - enhancemented qb-scrapyard.</li>
+            <li><a href="https://github.com/QBStevie/qb-scrapyard">qb-scrapyard</a> - enhancemented qb-scrapyard.</li>
             <li><a href="#">Project 2</a> - Custom automation scripts.</li>
             <li><a href="#">Project 3</a> - UI upgrades for seamless experiences.</li>
           </ul>
